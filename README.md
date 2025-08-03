@@ -1,6 +1,6 @@
 ### 🩺 InchCare: Cross-Chain Medical Incidents & Insurance Settlement
 
-**InchCare** is a decentralized medical incident reporting and insurance settlement protocol built across **Starknet, Filecoin, Stellar (Soroban), ICP, and Ethereum**. It leverages **1inch Fusion SDK+** to coordinate **cross-chain swaps and payouts** using hashlocks, timelocks, and custom escrow contracts.
+**InchCare** is a decentralized medical incident reporting and insurance settlement protocol built across **Starknet, Filecoin, Stellar (Soroban), Etherlink, ICP and Ethereum**. It leverages **1inch Fusion SDK+** to coordinate **cross-chain swaps and payouts** using hashlocks, timelocks, and custom escrow contracts.
 
 * 🪙 ERC-20 utility token deployed on Starknet, Filecoin, Optimism and Arbitrum for token-gated access to healthcare services
 * 🌐 Medical incidents immutably logged on Stellar using Soroban smart contracts

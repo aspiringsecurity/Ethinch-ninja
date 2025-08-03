@@ -1,4 +1,4 @@
-# Medical Incident Reporting on Stellar & EVM
+# Medical Incident Reporting on Stellar & ETH using 1inch Fusion+ SDK
 
 This project enables decentralized reporting of medical incidents and processing of insurance payments across both **Stellar/Soroban** and **EVM-compatible blockchains** using the **1inch Fusion SDK+**.
 

@@ -29,5 +29,17 @@ dapp for Patient Pro token deployment on Filecoin blockchain + + 1inch fusion sd
 dapp for Patient Pro token deployment for Arbitrum + + 1inch fusion sdk+ swap usage: https://invoice-ppt-arb-test.vercel.app/
 
 
+Contract Addresses + + 1inch fusion sdk+ swap usage
+
+Please visit: 
+
+1. https://github.com/aspiringsecurity/Inch-Care/tree/main/1inch-fusion-sdk%2B-ETH-FIL-STRK-extn (Filecoin and Starknet Blockchain)
+
+Demo and Screencasts at https://drive.google.com/drive/folders/10ozTBaSDtI-GnutEJK0qIzAFzyjLCVAN?usp=drive_link
+
+2. https://github.com/aspiringsecurity/Inch-Care/tree/main/1inch-stellar-dapp/1inch-soroban-incident-mgmt (Stellar blockchain)
+
+Demo and Screencasts at https://drive.google.com/drive/folders/1Fa9_YGTdKNVXAt-eL6IWxhTUXn2VRqDU?usp=drive_link
+
 
 

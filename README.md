@@ -22,13 +22,14 @@ Etherlink: We’re integrating Etherlink, an EVM-compatible L2, into our 1inch F
 
 Vercel Deployment
 
-dapp for Patient Pro token deployment for Optimism Mainnet + + 1inch fusion sdk+ swap usage: https://invoice-ppt-op-mainnet.vercel.app/
+dapp for Patient Pro token deployment for token gated access on Optimism Mainnet + + 1inch fusion sdk+ swap usage: https://invoice-ppt-op-mainnet.vercel.app/
 
-dapp for Patient Pro Token deployment on Starknet blockchain + 1inch fusion sdk+ swap usage: https://cairo-invoice-frontend.vercel.app/
+dapp for Patient Pro Token deployment for token gated access on Starknet blockchain + 1inch fusion sdk+ swap usage: https://cairo-invoice-frontend.vercel.app/
 
-dapp for Patient Pro token deployment on Filecoin blockchain + + 1inch fusion sdk+ swap usage: https://web3-invoice-token-gated-storacha.vercel.app 
+dapp for Patient Pro token deployment for token gated access on Filecoin blockchain + + 1inch fusion sdk+ swap usage: https://web3-invoice-token-gated-storacha.vercel.app and 
+https://fil-token-gated-dapp-storacha.vercel.app (Filecoin Mainnet)
 
-dapp for Patient Pro token deployment for Arbitrum testnet + + 1inch fusion sdk+ swap usage: https://invoice-ppt-arb-test.vercel.app/
+dapp for Patient Pro token deployment for for token gated access on Arbitrum testnet + + 1inch fusion sdk+ swap usage: https://invoice-ppt-arb-test.vercel.app/
 
 
 

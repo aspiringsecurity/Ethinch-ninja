@@ -19,6 +19,15 @@ Stellar: We use Stellar and Soroban smart contracts to immutably log medical inc
 
 Etherlink: We’re integrating Etherlink, an EVM-compatible L2, into our 1inch Fusion+ workflow to enable efficient cross-chain swaps using our PPT ERC-20 utility token, already deployed on Arbitrum, Optimism (testnet & mainnet), and now on Etherlink testnet. We demonstrate its use in a token-gated medical billing dApp, where the PPT token can be used for in-app actions like save, print, and email of medical invoices. The dApp showcases how 1inch Fusion+ can enable low-cost settlement and access control across L2s.
 
-Vercel deployment: https://invoice-ppt-arb-test.vercel.app/
+
+Vercel Deployment
+
+dapp for Patient Pro Token deployment on Starknet blockchain + 1inch fusion sdk+ swap usage: https://cairo-invoice-frontend.vercel.app/
+
+dapp for Patient Pro token deployment on Filecoin blockchain + + 1inch fusion sdk+ swap usage: https://web3-invoice-token-gated-storacha.vercel.app 
+
+dapp for Patient Pro token deployment for Arbitrum + + 1inch fusion sdk+ swap usage: https://invoice-ppt-arb-test.vercel.app/
+
+
 
 

@@ -8,8 +8,13 @@ Sepolia (Chain A)
 - Escrow Contract: 0x3B469d926876f10cA002E5Cf20776745aAcDFd3A
 - TokenA Contract: 0x7F1f595B7b47986b8B5a12731759225a2CcABfFC
 
-Filecoin Calibration (Chain B)
+Filecoin Calibration (Chain B1)
  
 - Deployer Address (Bob): 0x08aDb9CC0658Bb91F57707B7B4D016312EF8c70a
 - Escrow Contract: 0x6A6D7a69A302Ca8B41D7D00eD7019997854F587B
 - TokenB Contract: 0x1114CC447697E1f981FD83107f3a65146aa918Cd
+
+Starknet testnet (Chain B2)
+
+- Starknet EscrowAddress: 0x00aa920d6d0f39225fea6e81e3b82193cbcc814c6b3541c6f6163ccf0fa1f5e4
+- Starknet Utility Token Contract: 0x01d324a581d624d53b6b707092d1de5d7f4eba70546e94dee2d0367b9cbfa99b

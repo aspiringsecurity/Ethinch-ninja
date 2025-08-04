@@ -52,3 +52,34 @@ Demo and Screencasts at https://drive.google.com/drive/folders/10ozTBaSDtI-GnutE
 Demo and Screencasts at https://drive.google.com/drive/folders/1Fa9_YGTdKNVXAt-eL6IWxhTUXn2VRqDU?usp=drive_link
 
 
+
+Contracts Deployment Addresses using 1inch fusion+ sdk
+
+Ethereum Sepolia (Chain A)
+
+- Deployer Address (Alice): 0x213064b9f671Bbe8b94C98283AE4D12CAB8E4f4C
+- Escrow Contract: 0x3B469d926876f10cA002E5Cf20776745aAcDFd3A
+- TokenA Contract: 0x7F1f595B7b47986b8B5a12731759225a2CcABfFC
+
+Filecoin Calibration (Chain B1)
+ 
+- Deployer Address (Bob): 0x08aDb9CC0658Bb91F57707B7B4D016312EF8c70a
+- Escrow Contract: 0x6A6D7a69A302Ca8B41D7D00eD7019997854F587B
+- TokenB Contract: 0x1114CC447697E1f981FD83107f3a65146aa918Cd
+
+Starknet testnet (Chain B2)
+
+- Starknet EscrowAddress: 0x00aa920d6d0f39225fea6e81e3b82193cbcc814c6b3541c6f6163ccf0fa1f5e4
+- Starknet Utility Token Contract: 0x01d324a581d624d53b6b707092d1de5d7f4eba70546e94dee2d0367b9cbfa99b
+
+
+Stellar Testnet Contract Link for Medical Incident Reporting and Management using 1inch fusion sdk+
+
+Stellar deployed Contract (medical incident management):
+https://stellar.expert/explorer/testnet/contract/CA5KTWZW6EK5HL4MAB7DXBYBIQZ7JQ3MAKH6UQXQL256P2I44PFR6MLS 
+
+HTCL Contract (ETH): https://sepolia.etherscan.io/address/0x0ee168dff4412f271d483ea10fcd2b18fb57985a
+
+Stellar transaction: https://sepolia.etherscan.io/tx/0xf588a26f0decf2edec42cd7197c08c7b008e632cfb8258fe6d6f5b6693191586 
+
+

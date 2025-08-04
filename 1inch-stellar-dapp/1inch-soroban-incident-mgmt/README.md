@@ -82,6 +82,14 @@ await executeCrossChainSwap({
 
 Please visit https://github.com/aspiringsecurity/Inch-Care/tree/main/1inch-fusion-sdk%2B-ETH-FIL-STRK-extn
 
+Stellar deployed Contract (medical incident management):
+https://stellar.expert/explorer/testnet/contract/CA5KTWZW6EK5HL4MAB7DXBYBIQZ7JQ3MAKH6UQXQL256P2I44PFR6MLS 
+
+HTCL Contract (ETH): https://sepolia.etherscan.io/address/0x0ee168dff4412f271d483ea10fcd2b18fb57985a
+
+Stellar transaction: https://sepolia.etherscan.io/tx/0xf588a26f0decf2edec42cd7197c08c7b008e632cfb8258fe6d6f5b6693191586 
+
+
 ## 💡 Future Roadmap
 
 * [ ] Add patient consent registry

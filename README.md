@@ -20,7 +20,7 @@ Stellar: We use Stellar and Soroban smart contracts to immutably log medical inc
 Etherlink: We’re integrating Etherlink, an EVM-compatible L2, into our 1inch Fusion+ workflow to enable efficient cross-chain swaps using our PPT ERC-20 utility token, already deployed on Arbitrum, Optimism (testnet & mainnet), and now on Etherlink testnet. We demonstrate its use in a token-gated medical billing dApp, where the PPT token can be used for in-app actions like save, print, and email of medical invoices. The dApp showcases how 1inch Fusion+ can enable low-cost settlement and access control across L2s.
 
 
-Vercel Deployment
+### Vercel Deployment
 
 dapp for Patient Pro token deployment for token gated access on Optimism Mainnet + + 1inch fusion sdk+ swap usage: https://invoice-ppt-op-mainnet.vercel.app/
 
@@ -34,12 +34,12 @@ dapp for Patient Pro token deployment for for token gated access on Arbitrum tes
 
 
 
-Steps to Swap between EVM (Eth) and Non-EVM (FIL, STRK) Chains using 1inch fusion+ sdk
+### Steps to Swap between EVM (Eth) and Non-EVM (FIL, STRK) Chains using 1inch fusion+ sdk
 
 Please visit: https://github.com/aspiringsecurity/Inch-Care/tree/main/1inch-fusion-sdk%2B-ETH-FIL-STRK-extn/1inch-fusion-sdk%2B-FIL-extension
 
 
-Contract Addresses + + 1inch fusion sdk+ swap usage
+### Contract Addresses + + 1inch fusion sdk+ swap usage
 
 Please visit: 
 
@@ -53,7 +53,7 @@ Demo and Screencasts at https://drive.google.com/drive/folders/1Fa9_YGTdKNVXAt-e
 
 
 
-Contracts Deployment Addresses using 1inch fusion+ sdk
+### Contracts Deployment Addresses using 1inch fusion+ sdk
 
 Ethereum Sepolia (Chain A)
 

@@ -39,7 +39,7 @@ dapp for Patient Pro token deployment for for token gated access on Arbitrum tes
 Please visit: https://github.com/aspiringsecurity/Inch-Care/tree/main/1inch-fusion-sdk%2B-ETH-FIL-STRK-extn/1inch-fusion-sdk%2B-FIL-extension
 
 
-### Contract Addresses + + 1inch fusion sdk+ swap usage
+### Contract Addresses + 1inch fusion sdk+ swap usage
 
 Please visit: 
 
